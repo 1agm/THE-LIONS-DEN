@@ -18,32 +18,32 @@
 ### Log in to the CDC NFT platform https://crypto.com/nft/ and go to "Edit Profile" <a name="step11"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155387837-16e7bf86-698a-4764-9cb5-0ef4979df447.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155387837-16e7bf86-698a-4764-9cb5-0ef4979df447.png">
 </p>
 
 ### Enter your Twitter handle and save the changes <a name="step12"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155388258-8bc01ffa-576c-4258-9f6c-bd99c82ea909.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155388258-8bc01ffa-576c-4258-9f6c-bd99c82ea909.png">
 </p>
 
 ### View your profile as public <a name="step13"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155389115-3749d752-839d-450d-922d-3ddadc446ca3.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155389115-3749d752-839d-450d-922d-3ddadc446ca3.png">
 </p>
 
 ### Copy the URL to your profile <a name="step14"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155389398-f6b58245-c38b-4c8f-8249-748ee3ad490d.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155389398-f6b58245-c38b-4c8f-8249-748ee3ad490d.png">
 </p>
 
 ## Step 2 <a name="step2"></a>
 ### Copy your Discord username <a name="step21"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155390300-5c5be96c-49e2-44f6-963b-216b36570b6f.gif">
+  <img src="https://user-images.githubusercontent.com/98609855/155390300-5c5be96c-49e2-44f6-963b-216b36570b6f.gif">
 </p>
 
 ## Step 3 <a name="step3"></a>
@@ -61,13 +61,13 @@ discord_user: tag_m#0444
 ```
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155391523-fcd4f4bd-8303-496c-aa1d-1b871462ff30.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155391523-fcd4f4bd-8303-496c-aa1d-1b871462ff30.png">
 </p>
 
 ### Copy link to tweet <a name="step32"></a>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155391573-73d09da6-f3d8-4f03-85f0-56cb74b34573.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155391573-73d09da6-f3d8-4f03-85f0-56cb74b34573.png">
 </p>
 
 
@@ -96,7 +96,7 @@ Example:
 ```!verify https://twitter.com/11ag_m/status/1496565020389527559?s=20&t=CU_WngDPx_rYgF7ByRu8xg```
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/98609855/155393285-083a3b21-922e-490e-bbe4-715ff4c249f7.png">
+  <img src="https://user-images.githubusercontent.com/98609855/155393285-083a3b21-922e-490e-bbe4-715ff4c249f7.png">
 </p>
 
 
