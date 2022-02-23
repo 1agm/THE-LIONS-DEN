@@ -35,8 +35,22 @@ discord_user: tag_m#0444
 
 
 ## Step 4
+> **_NOTE:_**  By completing this step, you agree that we may store the following information about you: 
+```
+{
+    'discord_user',
+    'twitter_handle',
+    'cdc_username',
+    'cro_wallet_address',
+    'loaded_lion'
+}
+```
+
+
 Post the following command into the ```beta-testing``` channel
+
 Structure:
+
 ```!verify {your tweet link}```
 
 Example:
@@ -44,4 +58,5 @@ Example:
 ```!verify https://twitter.com/11ag_m/status/1496565020389527559?s=20&t=CU_WngDPx_rYgF7ByRu8xg```
 
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/98609855/155393285-083a3b21-922e-490e-bbe4-715ff4c249f7.png">
+
 
