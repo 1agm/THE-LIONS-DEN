@@ -38,6 +38,7 @@ discord_user: tag_m#0444
 Post the following command into the ```beta-testing``` channel
 Structure:
 ```!verify {your tweet link}```
+
 Example:
 ```!verify https://twitter.com/11ag_m/status/1496565020389527559?s=20&t=CU_WngDPx_rYgF7ByRu8xg```
 
