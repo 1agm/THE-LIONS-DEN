@@ -1,4 +1,4 @@
-# Loaded Lion Verification Process
+# The Lion's Den Verification Process
 
 ## Steps
 1. [Step 1](#step1)
