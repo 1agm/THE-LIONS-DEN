@@ -19,7 +19,7 @@
 ## Step 0 <a name="step0"></a>
 ### Join THE LION'S DEN discord server <a name="step01"></a>
 
-https://discord.gg/ydpByr2D 
+[discord.gg/loadedlions](https://discord.gg/loadedlions)
 
 ## Step 1 <a name="step1"></a>
 ### Log in to the CDC NFT platform https://crypto.com/nft/ and go to "Edit Profile" <a name="step11"></a>
