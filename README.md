@@ -1,21 +1,5 @@
 # THE LION'S DEN Verification Process
 
-## Steps
-1. [Step 0](#step0)
-    1. [Join THE LION'S DEN discord server](#step01)
-2. [Step 1](#step1)
-    1. [Log in to the CDC NFT](#step11)
-    2. [Enter your Twitter handle](#step12)
-    3. [View your profile as public](#step13)
-    4. [Copy the URL to your profile](#step14)
-2. [Step 2](#step2)
-    1. [Copy your Discord username](#step21)
-3. [Step 3](#step3)
-    1. [Post a tweet](#step31)
-    2. [Copy link to tweet](#step32)
-4. [Step 4](#step4)
-    1. [Execute the Discord command](#step41)
-
 ## Step 0 <a name="step0"></a>
 ### Join THE LION'S DEN discord server <a name="step01"></a>
 
