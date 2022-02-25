@@ -92,7 +92,7 @@ discord_user: tag_m#0444
 ```
 
 
-Post the following command into the ```#get-verified``` channel
+Post the following command into the ```🤖︱verification-bot-commands``` channel
 
 Structure:
 
